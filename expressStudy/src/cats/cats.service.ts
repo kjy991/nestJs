@@ -17,7 +17,6 @@ export const readAllCat = (req: Request, res: Response) => {
         });
     }
 };
-
 export const readCat = (req: Request, res: Response) => {
     try {
         var params_1 = req.params;

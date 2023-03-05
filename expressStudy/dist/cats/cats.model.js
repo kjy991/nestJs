@@ -28,4 +28,4 @@ exports.Cat = [
         id: 'asdfhi29009', name: 'star', age: 10, species: 'Scottish Fold', isCute: true, friends: ['wejufj20qj']
     }
 ];
-//# sourceMappingURL=app.model.js.map
+//# sourceMappingURL=cats.model.js.map
